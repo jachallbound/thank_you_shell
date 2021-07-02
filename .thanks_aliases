@@ -1,0 +1,4 @@
+alias Thank="echo You\'re Welcome ||" # || allows for typing Thank you
+alias thank="echo You\'re Welcome ||"
+alias Thanks="echo You\'re Welcome"
+alias thanks="echo You\'re Welcome"
